@@ -13,7 +13,9 @@ A Python application that analyzes your daily diary entries to track emotional p
 
 - Python 3.x
 - NLTK library
-- Matplotlib
+- plotly
+- glob
+- os
 
 ## Usage
 
